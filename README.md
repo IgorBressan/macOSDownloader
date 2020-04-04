@@ -10,13 +10,13 @@ git clone https://github.com/IgorBressan/macOSDownloader.git
 Change permission from file
 
 ```bash
-chmod a+x macOSDownloader_rc
+chmod a+x manOSDownloader_rc
 ```
 
 ## Usage
 
 ```bash
-./macOSDownloader_rc
+./manOSDownloader_rc
 ```
 
 ## Enjoy!
