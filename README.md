@@ -1,8 +1,13 @@
 # macOSDownloader
 
+## Clone Repository
+
+```bash
+git clone https://github.com/IgorBressan/macOSDownloader.git
+```
 ## Installation
 
-Clone repository and change permission from file
+Change permission from file
 
 ```bash
 chmod a+x macOSDownloader_rc
